@@ -1,0 +1,36 @@
+E:\Topicos de programacion\Practica1\EditorTextos\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+E:\Topicos de programacion\Practica1\EditorTextos\obj\Debug\EditorTextos.Properties.Resources.resources
+E:\Topicos de programacion\Practica1\EditorTextos\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+E:\Topicos de programacion\Practica1\EditorTextos\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+E:\Topicos de programacion\Practica1\EditorTextos\bin\Debug\EditorTextos.exe.config
+E:\Topicos de programacion\Practica1\EditorTextos\bin\Debug\EditorTextos.exe
+E:\Topicos de programacion\Practica1\EditorTextos\bin\Debug\EditorTextos.pdb
+E:\Topicos de programacion\Practica1\EditorTextos\obj\Debug\EditorTextos.exe
+E:\Topicos de programacion\Practica1\EditorTextos\obj\Debug\EditorTextos.pdb
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\bin\Debug\EditorTextos.exe.config
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\bin\Debug\EditorTextos.exe
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\bin\Debug\EditorTextos.pdb
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\obj\Debug\EditorTextos.Properties.Resources.resources
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\obj\Debug\EditorTextos.exe
+C:\Users\Rogelio\Downloads\EditorTextos\EditorTextos\obj\Debug\EditorTextos.pdb
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.Properties.Resources.resources
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.exe
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.pdb
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\bin\Debug\EditorTextos.exe.config
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\bin\Debug\EditorTextos.exe
+C:\Users\rogel\Downloads\EditorTextosif\EditorTextos\EditorTextos\bin\Debug\EditorTextos.pdb
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.Properties.Resources.resources
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.exe
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\obj\Debug\EditorTextos.pdb
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\bin\Debug\EditorTextos.exe.config
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\bin\Debug\EditorTextos.exe
+C:\Users\Rogelio\Downloads\Nueva carpeta (4)\Nueva carpeta\EditorTextosif\EditorTextos\EditorTextos\bin\Debug\EditorTextos.pdb
